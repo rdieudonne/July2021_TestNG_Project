@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9606" started-at="2022-02-03T18:30:30 EST" finished-at="2022-02-03T18:30:39 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9606" started-at="2022-02-03T18:30:30 EST" finished-at="2022-02-03T18:30:39 EST">
+      <class name="variousConcepts.LearnTestNG">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousConcepts.LearnTestNG@687080dc]" name="readConfig" is-config="true" duration-ms="11" started-at="2022-02-03T18:30:30 EST" finished-at="2022-02-03T18:30:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.LearnTestNG@687080dc]" name="init" is-config="true" duration-ms="5317" started-at="2022-02-03T18:30:30 EST" finished-at="2022-02-03T18:30:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addContactTest()[pri:1, instance:variousConcepts.LearnTestNG@687080dc]" name="addContactTest" duration-ms="4228" started-at="2022-02-03T18:30:35 EST" finished-at="2022-02-03T18:30:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContactTest -->
+      </class> <!-- variousConcepts.LearnTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
